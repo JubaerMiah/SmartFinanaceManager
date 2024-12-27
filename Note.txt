@@ -1,0 +1,2 @@
+To be able to run this file you must have the matplotlib libary installed
+The date format when adding expense and income is Day-Month-Year with only dashes
